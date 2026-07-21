@@ -1,5 +1,5 @@
 
-def login(nmae,password):
+def login(name,password):
     # Function to handle user login
     if nmae == "admin" and password == "admin123":
         return "Login successful"
